@@ -1,4 +1,4 @@
-This is just a basic collection of information resources, organized in a downloadable HTML file. 
+I started a basic collection of information resources, organized in a downloadable HTML file. 
 
 But you can also access the resources from here.
 
