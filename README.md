@@ -3,10 +3,6 @@ This is just a basic collection of information resources, organized in a downloa
 But you can also access the resources from here.
 
 
-<html>
-<head>
-        <title>Developer Library</title>
-</head>
 <body>
         <h1>Valuable resources</h1>
         <ol>
