@@ -3,6 +3,13 @@ This is just a basic collection of information resources, organized in a downloa
 But you can also access the resources from here.
 
 
+<html>
+<head>
+        <title>Developer Library</title>
+</head>
+<body>
+        <h1>Valuable resources</h1>
+        <ol>
                 <li><a href="https://cplusplus.com/doc/tutorial/" target="_blank">C++</a></li>
         <li><a href="https://medium.com/nerd-for-tech/c-libraries-part-i-design-9ed997dca8f3" target="_blank">C++ Libraries Part 1</a></li>
         <li><a href="https://medium.com/nerd-for-tech/c-libraries-part-ii-implementation-44dab21e50ae" target="_blank">C++ Libraries Part 2</a></li>                
@@ -29,3 +36,6 @@ But you can also access the resources from here.
         <li><a href="https://polaris.shopify.com/design/" target="_blank">HTML Design Tools</a></li>
         <li><a href="https://fonts.google.com" target="_blank">HTML Google Fonts</a></li>
         <li><a href="https://htmlreference.io/" target="_blank">HTML guide</a></li>
+        </ol>
+</body>
+</html>
