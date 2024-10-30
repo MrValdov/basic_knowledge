@@ -32,6 +32,7 @@ But you can also access the resources from here.
         <li><a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests" target="_blank" rel="noopener noreferrer">Pull requests</a></li>
         <li><a href="https://semver.org/spec/v2.0.0.html" target="_blank" rel="noopener noreferrer">Semantic Versioning 2.0.0</a></li>
         <li><a href="https://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html" target="_blank" rel="noopener noreferrer">Shared libraries with GCC on Linux</a></li>
+	<li><a href="https://github.com/jsx-eslint/eslint-plugin-react#configuration" target="_blank" rel="noopener noreferrer">React ESLint plugin</a></li>
         <li><a href="https://code.visualstudio.com/docs/nodejs/reactjs-tutorial" target="_blank" rel="noopener noreferrer">React VSCode</a></li>
         <li><a href="https://medium.com/@syketweb/stop-doing-npm-audit-fix-blindly-fcbdf0721a0c" target="_blank" rel="noopener noreferrer">React CPM Audit</a></li>
         <li><a href="https://www.wxwidgets.org/docs/tutorials/" target="_blank" rel="noopener noreferrer">WxWidgets tutorials</a></li>
